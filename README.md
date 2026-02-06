@@ -1,12 +1,10 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Brooklyn Williams]
+## [Assignment #1]
+## [Submission date: 02/05/26]
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* https://dev.to/wycliffealphus/introduction-to-linked-lists-in-golang-a-practical-guide-3epi
+* https://dev.to/jpoly1219/stacks-in-go-54k
+
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* Couldn't get access to push, but code should still work
+
